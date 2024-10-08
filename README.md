@@ -1,4 +1,4 @@
-# =========[Projeto Ora Bolas!]=========
+# ============[Projeto Ora Bolas!]============
 
 Feito por: Gabriela M. Ciocci | Gabriel Balbine | João Paulo
 Ciclo: 2° Semestre. 
